@@ -1,2 +1,2 @@
 # Mini-Project-0
-Getting familiar with ARM Programming Environment
+Getting Familiar with ARM Programming Environment
